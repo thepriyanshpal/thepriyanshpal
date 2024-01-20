@@ -1,6 +1,6 @@
 # 👩‍💻 Full Stack Web Developer | DSA Enthusiast 🧠
 
-Hi, I'm Hrishabh Bhardwaj, a versatile developer passionate about building web applications and mastering Data Structures and Algorithms.
+Hi, I'm Priyansh Pal, a versatile developer passionate about building web applications and mastering Data Structures and Algorithms.
 
 - 🔭 Currently working on MERN Stack.
 - 🌱 Learning and implementing the latest web technologies.
@@ -18,15 +18,12 @@ Hi, I'm Hrishabh Bhardwaj, a versatile developer passionate about building web a
 
 ## 📊 GitHub Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=bhardwaj-hrishabh&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=thepriyanshpal&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bhardwaj-hrishabh&theme=blue-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bhardwaj-thepriyanshpal&theme=blue-green)](https://git.io/streak-stats)
 
 ## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/your-username/)](https://www.linkedin.com/in/hrishabh-bhardwaj-55aab7218/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/your-username)](https://twitter.com/its_hrishabh_)
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/bhardwajhrishabh07/)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/thepriyanshpal/)
 
 ## 🌐 Portfolio
 
