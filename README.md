@@ -20,7 +20,7 @@ Hi, I'm Priyansh Pal, a versatile developer passionate about building web applic
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=thepriyanshpal&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bhardwaj-thepriyanshpal&theme=blue-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thepriyanshpal&theme=blue-green)](https://git.io/streak-stats)
 
 ## 🤝 Let's Connect
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/thepriyanshpal/)
